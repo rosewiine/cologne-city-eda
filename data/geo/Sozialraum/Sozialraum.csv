@@ -1,0 +1,7 @@
+﻿Feldname;Alias;Beschreibung
+FID;OBJECTID;Vom Programm verwaltet eindeutige Kennung jedes Objekts
+nummer;Nummer;Schlüssel des Sozialraums
+name;Name;Name des Sozialraums
+exklave;Exklave;"Gibt an, ob Polygon Feature die Exklave eines Sozialraums ist (j = ja, Exklave; n = nein, Kerngebiet)"
+nr_stbez;Stadtbezirk (Nr.);Schlüssel des übergeordneten Stadtbezirks
+stbezirk;Stadtbezirk;Name des übergeordneten Stadtbezirks
